@@ -1,0 +1,1 @@
+TAppEncoder.exe -c encoder_intra_main.cfg -c BasketballDrill.cfg -o BasketballDrill_832x480_50.bin
